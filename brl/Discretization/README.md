@@ -11,7 +11,7 @@ Irani, Keki B. "Multi-interval discretization of continuous-valued attributes fo
 2. In a terminal, cd into the directory where the .py files were saved
 3. run the following command:
   python MDLPC.py --options=...
-  
+
 script options:
 * in_path (required): Path to dataset in .csv format (must include header)
 * out_path (required): Path where the discretized dataset will be saved
